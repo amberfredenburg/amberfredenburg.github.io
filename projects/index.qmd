@@ -1,0 +1,44 @@
+---
+title: Research
+---
+
+## Soil Sanctuaries: Enhancing the nesting habitat for ground-nesting bees
+
+<img src="SS.jpg" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://arxiv.org/abs/2210.07278', 'blank');"/>
+
+<a href="https://www.biorxiv.org/content/10.1101/2025.04.18.649528v1.abstract">arXiv Preprint</a><br>
+
+Ground-nesting bees, species that excavate nests in underground in soil, are less diverse and abundant in urban environments, likely due to a lack of nesting habitat because of the many impervious surfaces (roads, buildings, sidewalks) in these areas. However, urban green spaces can be a refuge for wildlife and present an opportunity for conservation, especially for insects which can persist in these small habitat fragments. Planting pollinator gardens and proving foraging resources for bees is a common conservation action, but these actions do not include any nesting resources. We wanted to provide nesting resources for ground-nesting bees in urban areas. Thus, we constructed "soil sanctuaries", or soil surface manipulations including bare ground, pebbles, mounded soil, leaf litter (and a control) at 21 locations around Columbus, Ohio at different levels of urbanization. 
+
+----
+
+## Using specialist species to investigate the role of nest resources on bees across ecological scales
+
+<img src="Specials.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://arxiv.org/abs/2112.08866', 'blank');"/>
+
+Specialist bees, bees that forage from one or few plant species, present a unique opportunity to help us understand ground-nesting bee nesting habitat because we can account for the influence of floral resources on their populations. I surveyed the host plants of two ground-nesting specialist bee species, Andrena erigeniae (Claytonia virginca specialist) and Melissodes desponsus (Thistle specialist). We then investigate the local and landscape features that may provide nesting resources to these species. We also surveyed the bee community, to compare different scales of bee responses to these nesting resources. The comparison from population to functional community to entire community shows how species-level habitat associations may be masked by dominant taxa at broader ecological scales. This work not only provides a deep understanding of two ground-nesting bees, showing us just how different their nesting habitats can be. Our findings emphasize that understanding and conserving bee diversity requires a dual approach that captures broad community patterns while also explicitly addressing the ecological needs of less common or more specialized species. 
+
+
+## The effects of geologic history and soil characteristics on the bee community across Ohio
+
+<img src="Ground.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://arxiv.org/abs/2112.08866', 'blank');"/>
+
+Most bees (80%) nest underground, excavating tunnels in the soil. Despite their prevalence, little is known about where they nest. We conducted Ohio's first statewide bee survey, to investigate how soil characteristics across Ohio influence bee diversity and composition. Ohio is an interesting study location because during the Pleistocene, large glaciers swept through half of the state, resulting in markedly different topography and soil characteristics. We evaluate how glaciation shifted the soil characteristics important for bee nesting and how those characteristics influence the bee communities.  
+
+## The Ohio Bee Survey
+
+<img src="Survey.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://arxiv.org/abs/2112.08866', 'blank');"/>
+
+Ohio lacked a systematic survey of bee species, which is important for establishing baseline data that will help us monitor bee populations. In 2020, The Goodell Lab conducted Ohio's first statewide bee survey with the help of a network of volunteers. We collected, identified, organized and cataloged over 50,000 specimens. This data will not only be used as a baseline for future monitoring, but it will also be used to evaluate large scale effects of landscape on bee community diversity and composition. We will also investigate how backyards and parks support bee communities. We used this information to provide the Ohio Department Of Natural Resources the first list of bee species of conservation. 
+
+## The Specialist Bee Project
+
+<img src="Special.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://arxiv.org/abs/2112.08866', 'blank');"/>
+
+After conducting the Ohio Bee Survey, The Goodell Lab wanted to further search for rarer species we may have missed with our initial survey. From 2021-2025 we surveyed for specialist bees, species with limited floral hosts, across Ohio, in search of rare species and species with particular habitat requirements. We surveyed the host flowers of specialist species and non-host flower species to better understand how flowers support the bee community. This information will help us develop monitoring strategies that capture high diversity but fewer bees.
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
+</div>
+```
