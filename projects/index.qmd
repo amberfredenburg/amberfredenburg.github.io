@@ -21,7 +21,7 @@ Specialist bees, bees that forage from one or few plant species, present a uniqu
 
 ## The effects of geologic history and soil characteristics on the bee community across Ohio
 
-<img src="Ground.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://arxiv.org/abs/2112.08866', 'blank');"/>
+<img src="ground.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://arxiv.org/abs/2112.08866', 'blank');"/>
 
 Most bees (80%) nest underground, excavating tunnels in the soil. Despite their prevalence, little is known about where they nest. We conducted Ohio's first statewide bee survey, to investigate how soil characteristics across Ohio influence bee diversity and composition. Ohio is an interesting study location because during the Pleistocene, large glaciers swept through half of the state, resulting in markedly different topography and soil characteristics. We evaluate how glaciation shifted the soil characteristics important for bee nesting and how those characteristics influence the bee communities.  
 
