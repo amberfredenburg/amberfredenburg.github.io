@@ -13,13 +13,13 @@ navbar:
 
   left:
     - text: "Projects"
-      href: "projects/index.qmd"
+      href: projects/index.qmd
     - text: "Publications"
-      href: "Publications/index.qmd"
+      href: Publications/index.qmd
     - text: "Mentoring"
-      href: "Mentoring/index.qmd"
+      href: Mentoring/index.qmd
     - text: "CV"
-      href: "cv/index.qmd"
+      href: cv/index.qmd
 
   right:
     - icon: linkedin
