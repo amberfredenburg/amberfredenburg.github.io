@@ -32,7 +32,7 @@ website:
         href: "mailto:fredenburg.7@buckeyemail.osu.com"
 
 # Don't touch unless you know what you are doing :) ------------
-  search: 
+  search: true
     location: navbar
     type: textbox
   page-footer: 
