@@ -1,5 +1,11 @@
 /*-- scss:defaults --*/
 
+/* Increase navbar logo size */
+.navbar-brand img {
+  max-height: 60px; /* adjust this value as needed */
+  width: auto;
+}
+
 /* From https://github.com/andrewheiss/ath-quarto/blob/main/html/ath.scss */
 
 $white:    #ffffff !default;
@@ -25,7 +31,7 @@ $yellow:  #F6D645 !default;
 $green:   #118230 !default;
 $teal:    #068194 !default;
 $cyan:    #3093CF !default;
-$lightgreen:    #A7C957;
+$lightgreen:    #90A955;
 $brown:    #6C584C;
 
 $primary:   $lightgreen;
@@ -120,3 +126,32 @@ $btn-code-copy-color-active: $orange !default;
         }
     }
 }
+
+/* Add this at the end of your current SCSS file or wherever you keep global overrides */
+
+/* Define custom colors */
+$beige-bg: #FAF5E4;      // super light beige
+$dark-brown-text: #4B3621;  // dark brown
+
+/* Apply to body */
+body {
+  background-color: $beige-bg;
+  color: $dark-brown-text;
+}
+
+/* Optional: make links match your theme while remaining visible */
+a {
+  color: $primary;       // keeps your existing primary color
+  text-decoration: none;
+
+  &:hover {
+    color: $red;         // keep hover consistent with your current theme
+    text-decoration: underline;
+  }
+}
+
+/* Optional: headings */
+h1, h2, h3, h4, h5, h6 {
+  color: $dark-brown-text;
+}
+

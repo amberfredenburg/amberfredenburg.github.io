@@ -4,7 +4,7 @@ title: Research
 
 ## Soil Sanctuaries: Enhancing the nesting habitat for ground-nesting bees
 
-<img src="SS.jpg" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://arxiv.org/abs/2210.07278', 'blank');"/>
+<img src="SS1.jpg" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://arxiv.org/abs/2210.07278', 'blank');"/>
 
 <a href="https://www.biorxiv.org/content/10.1101/2025.04.18.649528v1.abstract">arXiv Preprint</a><br>
 
@@ -37,8 +37,3 @@ Ohio lacked a systematic survey of bee species, which is important for establish
 
 After conducting the Ohio Bee Survey, The Goodell Lab wanted to further search for rarer species we may have missed with our initial survey. From 2021-2025 we surveyed for specialist bees, species with limited floral hosts, across Ohio, in search of rare species and species with particular habitat requirements. We surveyed the host flowers of specialist species and non-host flower species to better understand how flowers support the bee community. This information will help us develop monitoring strategies that capture high diversity but fewer bees.
 
-```{=html}
-<div  style="margin: 30px; text-align: center;">
-<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
-</div>
-```

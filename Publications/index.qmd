@@ -2,14 +2,9 @@
 title: "Publications"
 ---
 
-Fredenburg, A. N., Gibbs., J., Henne, D. C. (2021). A Survey of wild bees (Hymenoptera:Anthophila) in Thunder Bay, Ontario, and their floral associations.Journal of Kansas Entomological Society 93(3). 211-229
+Fredenburg, A. N., Gibbs, J., Henne, D. C. (2021). A Survey of wild bees (Hymenoptera: Anthophila) in Thunder Bay, Ontario, and their floral associations. *Journal of Kansas Entomological Society*, 93(3), 211–229. [https://doi.org/10.2317/0022-8567-93.3.211](https://doi.org/10.2317/0022-8567-93.3.211)
 
-Fredenburg, A. and Goodell, K. (2025) Soil sanctuaries: Experimental manipulations enhance ground-nesting bee habitat across an urban gradient. bioRxiv, 18.649528
-
--icon: Google Scholar
-href: https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=kjRaxOYAAAAJ
-
-
+Fredenburg, A. and Goodell, K. (2025). Soil sanctuaries: Experimental manipulations enhance ground-nesting bee habitat across an urban gradient. *bioRxiv*, 18.649528. [https://doi.org/10.1101/2025.04.18.649528](https://doi.org/10.1101/2025.04.18.649528)
 
 ```{=html}
 <div style="margin: 30px; text-align: center;">
@@ -20,4 +15,3 @@ href: https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=k
      📖 View My Google Scholar
   </a>
 </div>
-```
