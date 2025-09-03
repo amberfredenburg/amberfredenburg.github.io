@@ -6,30 +6,30 @@ website:
   image: img/IMG_5379.JPG
   favicon: img/Beetiny.png
 
-# start of the navigation bar at the top of the website
-navbar:
-  pinned: true
-  logo: /img/Bee.png
+ # start of the navigation bar at the top of the website
+  navbar:
+    pinned: true
+    logo: /img/Bee.png
 
-  left:
-    - text: "Projects"
-      href: projects/index.qmd
-    - text: "Publications"
-      href: Publications/index.qmd
-    - text: "Mentoring"
-      href: Mentoring/index.qmd
-    - text: "CV"
-      href: cv/index.qmd
+    left:
+      - text: "Projects"
+        href: "projects/index.qmd"
+      - text: "Publications"
+        href: "Publications/index.qmd"
+      - text: "Mentoring"
+        href: "Mentoring/index.qmd"
+      - text: "CV"
+        href: "cv/index.qmd"
 
-  right:
-    - icon: linkedin
-      href: "https://www.linkedin.com/in/amber-fredenburg-133319157/"
-    - icon: envelope
-      text: "Personal Email"
-      href: "mailto:afredenburg95@gmail.com"
-    - icon: envelope
-      text: "OSU Email"
-      href: "mailto:fredenburg.7@buckeyemail.osu.com"
+    right:
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/amber-fredenburg-133319157/"
+      - icon: envelope
+        text: "Personal Email"
+        href: "mailto:afredenburg95@gmail.com"
+      - icon: envelope
+        text: "OSU Email"
+        href: "mailto:fredenburg.7@buckeyemail.osu.com"
 
 # Don't touch unless you know what you are doing :) ------------
   search: 
