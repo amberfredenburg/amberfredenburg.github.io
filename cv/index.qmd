@@ -8,7 +8,7 @@ engine: knitr
 resources:
   - "Fredenburg_Amber_CV.pdf"
 cv:
-  pdf: "../assets/Fredenburg_Amber_CV.pdf"
+  pdf: "Fredenburg_Amber_CV.pdf"
 ---
 
 ```{css echo=FALSE}
