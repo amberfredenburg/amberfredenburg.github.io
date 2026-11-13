@@ -11,7 +11,7 @@ Monitoring pollinator communities is increasingly important as insect declines b
 
 <img src="SS1.jpg" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://arxiv.org/abs/2210.07278', 'blank');"/>
 
-<a href="https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecs2.70781">Publication</a><br>
+<a href="https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecs2.70781">Read about Soil Sanctuaries</a><br>
 
 Ground-nesting bees, species that excavate nests in underground in soil, are less diverse and abundant in urban environments, likely due to a lack of nesting habitat because of the many impervious surfaces (roads, buildings, sidewalks) in these areas. However, urban green spaces can be a refuge for wildlife and present an opportunity for conservation, especially for insects which can persist in these small habitat fragments. Planting pollinator gardens and proving foraging resources for bees is a common conservation action, but these actions do not include any nesting resources. We wanted to provide nesting resources for ground-nesting bees in urban areas. Thus, we constructed "soil sanctuaries", or soil surface manipulations including bare ground, pebbles, mounded soil, leaf litter (and a control) at 21 locations around Columbus, Ohio at different levels of urbanization. 
 
